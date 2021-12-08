@@ -1,0 +1,4 @@
+saved_models/*.pth
+runs
+VF_dataset
+__pycache__
